@@ -12,5 +12,4 @@
 - [Power BI]
 - [SQL]
 - [Python]
-- ⚡ Fun fact: ...
--->
+
