@@ -12,11 +12,13 @@
 <img width="1152" height="688" alt="Excel-project-chart png" src="https://github.com/user-attachments/assets/ee311bd4-9cd4-48d3-a7df-7d7d69ebc18a" />
   
 -[Tableau]:This project looks at how job changes vary across major UK cities using both a bar chart and a map. The dashboard highlights the percentage change in each location, making it easy to compare where shifts in employment are more noticeable. It’s a simple visual that brings together geographic and statistical insight in one place.
-<img width="592" height="445" alt="Tableau-report-home png" src="https://github.com/user-attachments/assets/518e5465-2951-4945-8396-7a76418e7bd4" />
+<img width="490" height="442" alt="Tableau-report-home png" src="https://github.com/user-attachments/assets/d59a6d0b-a04e-4aa3-b9c1-cfb087bdb7db" />
+
 
 
 - [Power BI]:This report gives a clear view of sales performance by comparing actual results against targets. It highlights total sales, variance, and margin, and includes monthly breakdowns to show how performance shifts over time. The visuals make it easy to track progress, spot gaps, and understand overall business performance at a glance.
-<img width="407" height="280" alt="powerbi-report-home png" src="https://github.com/user-attachments/assets/0448447c-8ba4-4743-b2c2-cbde75a4633d" />
+<img width="388" height="238" alt="powerbi-report-home png" src="https://github.com/user-attachments/assets/c5fb2d4f-9b3c-4a95-a42a-04847d2b89e4" />
+
 
   
   
