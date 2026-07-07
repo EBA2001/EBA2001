@@ -10,11 +10,13 @@
   ## Projects I have completed:  
 - [Excel]:This project showcases a retail sales dataset built in Excel, containing individual transaction records with details like customer demographics, product categories, quantities, prices, total sales, and commission calculations. It’s a well‑structured file designed for data cleaning, exploring sales trends, and building dashboards. The dataset offers enough variety to support real‑world style analysis.
 <img width="1152" height="688" alt="Excel-project-chart png" src="https://github.com/user-attachments/assets/ee311bd4-9cd4-48d3-a7df-7d7d69ebc18a" />
-
-
   
 - [Tableau]
-- [Power BI]:This dashboard breaks down retail sales across segments, product categories, and countries. It highlights total sales, shows how different customer groups contribute to revenue, and compares performance across regions. The visuals make it easy to spot trends, understand where sales are strongest, and get a quick overview of overall business activity. 
+- [Power BI]:This dashboard breaks down retail sales across segments, product categories, and countries. It highlights total sales, shows how different customer groups contribute to revenue, and compares performance across regions. The visuals make it easy to spot trends, understand where sales are strongest, and get a quick overview of overall business activity.
+<img width="1843" height="908" alt="powerbi-report-home png" 
+  src="https://github.com/user-attachments/assets/9267f287-39aa-4062-87c4-
+  8a5e18c485a5" />
+  
 - [SQL]:I put together this database schema to map out how countries, cities, and languages interact. The goal was to build a clean, normalized structure that handles everything from basic geographic stats (like GNP and population) to the specific distribution of languages across different regions.
 It handles the many-to-many relationship between countries and languages using a bridge table and includes a FamilyLang entity to track language groups. This setup is perfect for running complex SQL queries to find things like the percentage of official language speakers relative to a country's total population.
 - [Python]
