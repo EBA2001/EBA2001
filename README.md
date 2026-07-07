@@ -7,9 +7,10 @@
 - SQL/ MySQL Workbench - I learnt how to write queries  and manage databases to quickly pull, filter, and manipulate specific data from massive corporate storage systems.
 - Tableau/ Power BI Dashboards - I connected different data sources to build interactive charts and visual dashboards that make trends and key business insights instantly clear to anyone
   ## Projects I have completed:  
-- [Excel]
+- [Excel]:This project showcases a retail sales dataset built in Excel, containing individual transaction records with details like customer demographics, product categories, quantities, prices, total sales, and commission calculations. It’s a well‑structured file designed for data cleaning, exploring sales trends, and building dashboards. The dataset offers enough variety to support real‑world style analysis.
 - [Tableau]
-- [Power BI]
-- [SQL]
+- [Power BI]:This dashboard breaks down retail sales across segments, product categories, and countries. It highlights total sales, shows how different customer groups contribute to revenue, and compares performance across regions. The visuals make it easy to spot trends, understand where sales are strongest, and get a quick overview of overall business activity. 
+- [SQL]:I put together this database schema to map out how countries, cities, and languages interact. The goal was to build a clean, normalized structure that handles everything from basic geographic stats (like GNP and population) to the specific distribution of languages across different regions.
+It handles the many-to-many relationship between countries and languages using a bridge table and includes a FamilyLang entity to track language groups. This setup is perfect for running complex SQL queries to find things like the percentage of official language speakers relative to a country's total population.
 - [Python]
 
