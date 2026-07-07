@@ -12,6 +12,7 @@
 <img width="1152" height="688" alt="Excel-project-chart png" src="https://github.com/user-attachments/assets/ee311bd4-9cd4-48d3-a7df-7d7d69ebc18a" />
   
 -[Tableau]:This project looks at how job changes vary across major UK cities using both a bar chart and a map. The dashboard highlights the percentage change in each location, making it easy to compare where shifts in employment are more noticeable. It’s a simple visual that brings together geographic and statistical insight in one place.
+
 <img width="490" height="442" alt="Tableau-report-home png" src="https://github.com/user-attachments/assets/d59a6d0b-a04e-4aa3-b9c1-cfb087bdb7db" />
 
 
