@@ -16,7 +16,8 @@
 
 
 - [Power BI]:This report gives a clear view of sales performance by comparing actual results against targets. It highlights total sales, variance, and margin, and includes monthly breakdowns to show how performance shifts over time. The visuals make it easy to track progress, spot gaps, and understand overall business performance at a glance.
-<img width="493" height="280" alt="powerbi-report-home png" src="https://github.com/user-attachments/assets/4ae2ac8f-07de-47cb-ad93-6411b6e71ad7" />
+<img width="407" height="280" alt="powerbi-report-home png" src="https://github.com/user-attachments/assets/0448447c-8ba4-4743-b2c2-cbde75a4633d" />
+
   
   
 
