@@ -15,7 +15,10 @@
 <img width="592" height="445" alt="Tableau-report-home png" src="https://github.com/user-attachments/assets/518e5465-2951-4945-8396-7a76418e7bd4" />
 
 
-- [Power BI]:
+- [Power BI]:This report gives a clear view of sales performance by comparing actual results against targets. It highlights total sales, variance, and margin, and includes monthly breakdowns to show how performance shifts over time. The visuals make it easy to track progress, spot gaps, and understand overall business performance at a glance.
+<img width="493" height="280" alt="powerbi-report-home png" src="https://github.com/user-attachments/assets/4ae2ac8f-07de-47cb-ad93-6411b6e71ad7" />
+  
+  
 
   
 - [SQL]:I put together this database schema to map out how countries, cities, and languages interact. The goal was to build a clean, normalized structure that handles everything from basic geographic stats (like GNP and population) to the specific distribution of languages across different regions.
