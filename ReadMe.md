@@ -30,6 +30,12 @@ This project looks at how job changes vary across major UK cities using both a b
 
 <img width="490" height="442" alt="Image" src="https://github.com/user-attachments/assets/30bdaed5-f6d0-409c-892c-c9bf6f0a818f" />
 
+### [Tableau]:
+This project looks at how job changes vary across major UK cities using both a bar chart and a map. The dashboard highlights the percentage change in each location, making it easy to compare where shifts in employment are more noticeable. It’s a simple visual that brings together geographic and statistical insight in one place.
+
+<img width="490" height="442" alt="Image" src="https://github.com/user-attachments/assets/30bdaed5-f6d0-409c-892c-c9bf6f0a818f" />
+
+
 
 
 
