@@ -30,11 +30,10 @@ This project looks at how job changes vary across major UK cities using both a b
 
 <img width="490" height="442" alt="Image" src="https://github.com/user-attachments/assets/30bdaed5-f6d0-409c-892c-c9bf6f0a818f" />
 
-[Power BI]:
+### [Power BI]:
 This report gives a clear view of sales performance by comparing actual results against targets. It highlights total sales, variance, and margin, and includes monthly breakdowns to show how performance shifts over time. The visuals make it easy to track progress, spot gaps, and understand overall business performance at a glance.
 
-<img width="490" height="442" alt="Image" src="https://github.com/user-attachments/assets/30bdaed5-f6d0-409c-892c-c9bf6f0a818f" />
-
+<img width="388" height="238" alt="Image" src="https://github.com/user-attachments/assets/01885873-c9b3-422c-8814-d6562121219b" />
 
 
 
