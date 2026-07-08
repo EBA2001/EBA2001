@@ -38,7 +38,7 @@ This project looks at five years of revenue and profit data and presents the res
 
 
 ### Tableau
-## Project: Global Health Insights
+## Project: Global Health Insights Dashboard
 ## Overview
 The dashboard gives clear snapshot of global health patterns. It compares expectancy across continents, shows how the population is split between men and woman, and tracks how life expectancy has changed over time. It also includes a scatter plot that explores the relationship between BMI and life expectancy. A data guide on the side highlights key insights, including Africa's notably lower average life.
 
@@ -46,7 +46,7 @@ The dashboard gives clear snapshot of global health patterns. It compares expect
 
 
 ### Power BI
-## Project: 
+## Project: Sales Performance Dashboard 
 ## Overview
 This report gives a clear view of sales performance by comparing actual results against targets. It highlights total sales, variance, and margin, and includes monthly breakdowns to show how performance shifts over time. The visuals make it easy to track progress, spot gaps, and understand overall business performance at a glance.
 
