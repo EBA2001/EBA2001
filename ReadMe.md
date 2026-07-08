@@ -40,6 +40,9 @@ I put together this database schema to map out how countries, cities, and langua
 
 <img width="935" height="594" alt="Image" src="https://github.com/user-attachments/assets/e11a1338-a17c-4284-b630-a88b922885ea" />
 
+### [Python]:
+https://colab.research.google.com/drive/10EUGTWp-uB1y2fRGo4_mKUmECXZXvK_6
+
 
 
 
