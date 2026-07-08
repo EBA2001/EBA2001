@@ -73,6 +73,12 @@ This project is data‑analysis workflow built in Python. Working in Google Cola
 
 ## Project 2:
 
+<img width="1418" height="655" alt="Image" src="https://github.com/user-attachments/assets/f49a99db-a489-4ca4-8f34-4e476d49cdf0" />
+
+## Project 3:
+
+
+
 
 
 
