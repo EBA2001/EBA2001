@@ -31,7 +31,8 @@ Excel and data basics - I mastered the fundamentals of data organization, format
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
-### Support Me
+### [Projects I have completed: ](https://github.com/EBA2001/EBA2001/blob/main/README.md#projects-i-have-completed)
+
 
 ### Support Me
 
