@@ -28,7 +28,7 @@ This project showcases a retail sales dataset built in Excel, containing individ
 ### [Tableau]:
 This project looks at how job changes vary across major UK cities using both a bar chart and a map. The dashboard highlights the percentage change in each location, making it easy to compare where shifts in employment are more noticeable. It’s a simple visual that brings together geographic and statistical insight in one place.
 
-<img width="1152" height="688" alt="Image" src="https://github.com/user-attachments/assets/2fa8cb00-2057-4d62-ba2c-6d442f20dcfd" />
+<img width="490" height="442" alt="Image" src="https://github.com/user-attachments/assets/30bdaed5-f6d0-409c-892c-c9bf6f0a818f" />
 
 
 
