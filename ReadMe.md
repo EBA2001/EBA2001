@@ -37,23 +37,31 @@ This project looks at five years of revenue and profit data and presents the res
 <img width="466" height="206" alt="Excel- visualization" src="https://github.com/user-attachments/assets/cec9f3e8-ce10-4d18-920b-0f6f2fb58e20" />
 
 
-### [Tableau]:
+### Tableau
+## Project: Global Health Insights
+## Overview
 The dashboard gives clear snapshot of global health patterns. It compares expectancy across continents, shows how the population is split between men and woman, and tracks how life expectancy has changed over time. It also includes a scatter plot that explores the relationship between BMI and life expectancy. A data guide on the side highlights key insights, including Africa's notably lower average life.
 
 <img width="840" height="607" alt="Tableau - report  png" src="https://github.com/user-attachments/assets/87a69ae0-e65a-49d2-bf4e-2a48b8f485c7" />
 
 
-### [Power BI]:
+### Power BI
+## Project: 
+## Overview
 This report gives a clear view of sales performance by comparing actual results against targets. It highlights total sales, variance, and margin, and includes monthly breakdowns to show how performance shifts over time. The visuals make it easy to track progress, spot gaps, and understand overall business performance at a glance.
 
 <img width="388" height="238" alt="Image" src="https://github.com/user-attachments/assets/01885873-c9b3-422c-8814-d6562121219b" />
 
-### [SQL]:
+### SQL
+## Project: 
+## Overview
 I put together this database schema to map out how countries, cities, and languages interact. The goal was to build a clean, normalized structure that handles everything from basic geographic stats (like GNP and population) to the specific distribution of languages across different regions. It handles the many-to-many relationship between countries and languages using a bridge table and includes a FamilyLang entity to track language groups. This setup is perfect for running complex SQL queries to find things like the percentage of official language speakers relative to a country's total population.
 
 <img width="935" height="594" alt="Image" src="https://github.com/user-attachments/assets/e11a1338-a17c-4284-b630-a88b922885ea" />
 
-### [Python]:
+### Python
+## Project:
+## Overview
 This project is data‑analysis workflow built in Python. Working in Google Colab, I set up a clean environment, connected my Google Drive, and imported a real‑world GDP per‑capita dataset for exploration. The notebook focuses on loading the data, reviewing its structure, and preparing it for further analysis and visualisation using libraries such as pandas, matplotlib and seaborn. The work reflects my ability to organise a reproducible workflow, handle external files, and apply core Python tools to support practical, data‑driven insights. Below is the link for my google colab project:
 
 https://colab.research.google.com/drive/10EUGTWp-uB1y2fRGo4_mKUmECXZXvK_6
