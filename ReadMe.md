@@ -41,7 +41,7 @@ I put together this database schema to map out how countries, cities, and langua
 <img width="935" height="594" alt="Image" src="https://github.com/user-attachments/assets/e11a1338-a17c-4284-b630-a88b922885ea" />
 
 ### [Python]:
-This project is data‑analysis workflow built in Python. Working in Google Colab, I set up a clean environment, connected my Google Drive, and imported a real‑world GDP per‑capita dataset for exploration. The notebook focuses on loading the data, reviewing its structure, and preparing it for further analysis and visualisation using libraries such as pandas, matplotlib and seaborn. The work reflects my ability to organise a reproducible workflow, handle external files, and apply core Python tools to support practical, data‑driven insights.
+This project is data‑analysis workflow built in Python. Working in Google Colab, I set up a clean environment, connected my Google Drive, and imported a real‑world GDP per‑capita dataset for exploration. The notebook focuses on loading the data, reviewing its structure, and preparing it for further analysis and visualisation using libraries such as pandas, matplotlib and seaborn. The work reflects my ability to organise a reproducible workflow, handle external files, and apply core Python tools to support practical, data‑driven insights. Below is the link for my google colab project:
 
 https://colab.research.google.com/drive/10EUGTWp-uB1y2fRGo4_mKUmECXZXvK_6
 [Python_coding.ipynb - Colab.pdf](https://github.com/user-attachments/files/29785368/Python_coding.ipynb.-.Colab.pdf)
