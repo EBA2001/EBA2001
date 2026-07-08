@@ -1,4 +1,4 @@
-## Hi, I'm Eunice,
+## Hi👋, I'm Eunice,
 
 🔭 I’m currently working on my portfolio to show the projects i created during my Data Analytics course.
 ## What I have learnt:
