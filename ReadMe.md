@@ -18,11 +18,15 @@ I’m currently working on my portfolio to show the projects I created during my
 
 ### [Projects I have completed: ](https://github.com/EBA2001/EBA2001/blob/main/README.md#projects-i-have-completed)
 
-### [Excel]:
+### Excel & Data Basics
+
+Project 1:
 This project showcases a retail sales dataset built in Excel, containing individual transaction records with details like customer demographics, product categories, quantities, prices, total sales, and commission calculations. It’s a well‑structured file designed for data cleaning, exploring sales trends, and building dashboards. The dataset offers enough variety to support real‑world style analysis.
 
 <img width="1152" height="688" alt="Image" src="https://github.com/user-attachments/assets/2fa8cb00-2057-4d62-ba2c-6d442f20dcfd" />
-
+Project 2: Revenue and Profit Trend Analysis (2017–2021)
+Overview
+This project looks at five years of revenue and profit data and presents the results in a clear, easy‑to‑read format. I organised the figures in Excel, calculated the totals, and created a line chart to highlight how both revenue and profit have grown over time. The visual makes it easy to see the widening gap between the two, with revenue increasing at a faster pace. The aim of the project was to practise working with financial data, summarise key trends, and present the information in a way that supports quick interpretation and decision‑making.
 ### [Tableau]:
 The dashboard gives clear snapshot of global health patterns. It compares expectancy across continents, shows how the population is split between men and woman, and tracks how life expectancy has changed over time. It also includes a scatter plot that explores the relationship between BMI and life expectancy. A data guide on the side highlights key insights, including Africa's notably lower average life.
 
