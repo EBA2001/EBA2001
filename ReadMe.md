@@ -20,17 +20,17 @@ I’m currently working on my portfolio to show the projects I created during my
 
 ### Excel & Data Basics
 
-Project 1:
+##Project 1:
  [retail_sales_dataset.xlsx](https://github.com/user-attachments/files/29817690/retail_sales_dataset.xlsx)
-Overview
+##Overview
 This project showcases a retail sales dataset built in Excel, containing individual transaction records with details like customer demographics, product categories, quantities, prices, total sales, and commission calculations. It’s a well‑structured file designed for data cleaning, exploring sales trends, and building dashboards. The dataset offers enough variety to support real‑world style analysis.
 
 <img width="864" height="593" alt="Excel-project-chart png" src="https://github.com/user-attachments/assets/fd6efb0a-aae9-4ebf-91a9-11fc545df3ba" />
 
 
 
-Project 2: Revenue and Profit Trend Analysis (2017–2021)
-Overview
+##Project 2: Revenue and Profit Trend Analysis (2017–2021)
+##Overview
 This project looks at five years of revenue and profit data and presents the results in a clear, easy‑to‑read format. I organised the figures in Excel, calculated the totals, and created a line chart to highlight how both revenue and profit have grown over time. The visual makes it easy to see the widening gap between the two, with revenue increasing at a faster pace. The aim of the project was to practise working with financial data, summarise key trends, and present the information in a way that supports quick interpretation and decision‑making.
 
 <img width="466" height="206" alt="Excel- visualization" src="https://github.com/user-attachments/assets/cec9f3e8-ce10-4d18-920b-0f6f2fb58e20" />
