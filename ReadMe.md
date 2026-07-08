@@ -25,8 +25,8 @@ This project showcases a retail sales dataset built in Excel, containing individ
 
 <img width="1152" height="688" alt="Image" src="https://github.com/user-attachments/assets/2fa8cb00-2057-4d62-ba2c-6d442f20dcfd" />
 
-### [Excel]:
-This project showcases a retail sales dataset built in Excel, containing individual transaction records with details like customer demographics, product categories, quantities, prices, total sales, and commission calculations. It’s a well‑structured file designed for data cleaning, exploring sales trends, and building dashboards. The dataset offers enough variety to support real‑world style analysis.
+### [Tableau]:
+This project looks at how job changes vary across major UK cities using both a bar chart and a map. The dashboard highlights the percentage change in each location, making it easy to compare where shifts in employment are more noticeable. It’s a simple visual that brings together geographic and statistical insight in one place.
 
 <img width="1152" height="688" alt="Image" src="https://github.com/user-attachments/assets/2fa8cb00-2057-4d62-ba2c-6d442f20dcfd" />
 
