@@ -51,11 +51,12 @@ https://colab.research.google.com/drive/10EUGTWp-uB1y2fRGo4_mKUmECXZXvK_6
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/EBA2001" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
-* 🌍  I'm based in West Midlands
-* ✉️  You can contact me at [Euniceboakyeafriyie@gmail.com](mailto:Euniceboakyeafriyie@gmail.com)
-* 🚀  I'm currently working on [EBA2001](http://https://github.com/EBA2001/EBA2001/tree/main)
-* 🧠  I'm currently learning Data Analytics
-* 👥  I'm looking to collaborate on Data Driven Projects
+
+
+*  ✉️  You can contact me at [Euniceboakyeafriyie@gmail.com](mailto:Euniceboakyeafriyie@gmail.com)
+*  🚀  I'm currently working on [EBA2001](http://https://github.com/EBA2001/EBA2001/tree/main)
+*  🧠  I'm currently learning Data Analytics
+*  👥  I'm looking to collaborate on Data Driven Projects
 ### Badges
 
 <b>My GitHub Stats</b>
