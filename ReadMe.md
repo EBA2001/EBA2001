@@ -24,9 +24,10 @@ This project showcases a retail sales dataset built in Excel, containing individ
 <img width="1152" height="688" alt="Image" src="https://github.com/user-attachments/assets/2fa8cb00-2057-4d62-ba2c-6d442f20dcfd" />
 
 ### [Tableau]:
-This project looks at how job changes vary across major UK cities using both a bar chart and a map. The dashboard highlights the percentage change in each location, making it easy to compare where shifts in employment are more noticeable. It’s a simple visual that brings together geographic and statistical insight in one place.
+The dashboard gives clear snapshot of global health patterns. It compares expectancy across continents, shows how the population is split between men and woman, and tracks how life expectancy has changed over time. It also includes a scatter plot that explores the relationship between BMI and life expectancy. A data guide on the side highlights key insights, including Africa's notably lower average life.
 
-<img width="490" height="442" alt="Image" src="https://github.com/user-attachments/assets/30bdaed5-f6d0-409c-892c-c9bf6f0a818f" />
+<img width="840" height="607" alt="Tableau - report  png" src="https://github.com/user-attachments/assets/87a69ae0-e65a-49d2-bf4e-2a48b8f485c7" />
+
 
 ### [Power BI]:
 This report gives a clear view of sales performance by comparing actual results against targets. It highlights total sales, variance, and margin, and includes monthly breakdowns to show how performance shifts over time. The visuals make it easy to track progress, spot gaps, and understand overall business performance at a glance.
