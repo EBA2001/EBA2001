@@ -18,6 +18,13 @@ Excel and data basics - I mastered the fundamentals of data organization, format
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" alt="Wix" title="Wix" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a>
 </p>
 
+### [Projects I have completed: ](https://github.com/EBA2001/EBA2001/blob/main/README.md#projects-i-have-completed)
+
+### [Excel]:
+This project showcases a retail sales dataset built in Excel, containing individual transaction records with details like customer demographics, product categories, quantities, prices, total sales, and commission calculations. It’s a well‑structured file designed for data cleaning, exploring sales trends, and building dashboards. The dataset offers enough variety to support real‑world style analysis
+
+
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/EBA2001" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
@@ -30,8 +37,6 @@ Excel and data basics - I mastered the fundamentals of data organization, format
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
-
-### [Projects I have completed: ](https://github.com/EBA2001/EBA2001/blob/main/README.md#projects-i-have-completed)
 
 
 ### Support Me
