@@ -53,7 +53,7 @@ This report gives a clear view of sales performance by comparing actual results 
 <img width="388" height="238" alt="Image" src="https://github.com/user-attachments/assets/01885873-c9b3-422c-8814-d6562121219b" />
 
 ### SQL
-## Project: 
+## Project: Relational Database Schema & ERD Design 
 ## Overview
 I put together this database schema to map out how countries, cities, and languages interact. The goal was to build a clean, normalized structure that handles everything from basic geographic stats (like GNP and population) to the specific distribution of languages across different regions. It handles the many-to-many relationship between countries and languages using a bridge table and includes a FamilyLang entity to track language groups. This setup is perfect for running complex SQL queries to find things like the percentage of official language speakers relative to a country's total population.
 
