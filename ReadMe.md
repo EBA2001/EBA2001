@@ -20,7 +20,7 @@ I’m currently working on my portfolio to show the projects I created during my
 
 ### Excel & Data Basics
 
-## Project 1:
+## Project 1:Retail Sales & Commission Analysis (2023 Dataset)
  [retail_sales_dataset.xlsx](https://github.com/user-attachments/files/29817690/retail_sales_dataset.xlsx)
 ## Overview
 This project showcases a retail sales dataset built in Excel, containing individual transaction records with details like customer demographics, product categories, quantities, prices, total sales, and commission calculations. It’s a well‑structured file designed for data cleaning, exploring sales trends, and building dashboards. The dataset offers enough variety to support real‑world style analysis.
