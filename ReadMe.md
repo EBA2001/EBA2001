@@ -42,6 +42,8 @@ I put together this database schema to map out how countries, cities, and langua
 
 ### [Python]:
 https://colab.research.google.com/drive/10EUGTWp-uB1y2fRGo4_mKUmECXZXvK_6
+[Python_coding.ipynb - Colab.pdf](https://github.com/user-attachments/files/29785368/Python_coding.ipynb.-.Colab.pdf)
+
 
 
 
