@@ -30,7 +30,7 @@ This project showcases a retail sales dataset built in Excel, containing individ
 
 
 ## Project 2: Revenue and Profit Trend Analysis (2017–2021)
-[Bike_Sales_Visualisations.xlsx](https://github.com/user-attachments/files/29817997/Bike_Sales_Visualisations.xlsx)
+ [Bike_Sales_Visualisations.xlsx](https://github.com/user-attachments/files/29817997/Bike_Sales_Visualisations.xlsx)
 ## Overview
 This project looks at five years of revenue and profit data and presents the results in a clear, easy‑to‑read format. I organised the figures in Excel, calculated the totals, and created a line chart to highlight how both revenue and profit have grown over time. The visual makes it easy to see the widening gap between the two, with revenue increasing at a faster pace. The aim of the project was to practise working with financial data, summarise key trends, and present the information in a way that supports quick interpretation and decision‑making.
 
