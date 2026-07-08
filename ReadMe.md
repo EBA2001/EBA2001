@@ -19,7 +19,7 @@ I’m currently working on my portfolio to show the projects I created during my
 ### [Projects I have completed: ](https://github.com/EBA2001/EBA2001/blob/main/README.md#projects-i-have-completed)
 
 ### Excel & Data Basics
-
+[retail_sales_dataset - original - Copy.xlsx](https://github.com/user-attachments/files/29816790/retail_sales_dataset.-.original.-.Copy.xlsx)
 Project 1:
 Overview
 This project showcases a retail sales dataset built in Excel, containing individual transaction records with details like customer demographics, product categories, quantities, prices, total sales, and commission calculations. It’s a well‑structured file designed for data cleaning, exploring sales trends, and building dashboards. The dataset offers enough variety to support real‑world style analysis.
