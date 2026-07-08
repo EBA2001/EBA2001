@@ -11,11 +11,6 @@ I’m currently working on my portfolio to show the projects I created during my
 * SQL/ MySQL Workbench - I learnt how to write queries and manage databases to quickly pull, filter, and manipulate specific data from massive corporate storage systems.
 * Tableau/ Power BI Dashboards - I connected different data sources to build interactive charts and visual dashboards that make trends and key business insights instantly clear to anyone.
 
-* 🌍  I'm based in West Midlands
-* ✉️  You can contact me at [Euniceboakyeafriyie@gmail.com](mailto:Euniceboakyeafriyie@gmail.com)
-* 🚀  I'm currently working on [EBA2001](http://https://github.com/EBA2001/EBA2001/tree/main)
-* 🧠  I'm currently learning Data Analytics
-* 👥  I'm looking to collaborate on Data Driven Projects
 
 <p align="left">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" alt="Wix" title="Wix" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a>
@@ -56,6 +51,11 @@ https://colab.research.google.com/drive/10EUGTWp-uB1y2fRGo4_mKUmECXZXvK_6
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/EBA2001" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+* 🌍  I'm based in West Midlands
+* ✉️  You can contact me at [Euniceboakyeafriyie@gmail.com](mailto:Euniceboakyeafriyie@gmail.com)
+* 🚀  I'm currently working on [EBA2001](http://https://github.com/EBA2001/EBA2001/tree/main)
+* 🧠  I'm currently learning Data Analytics
+* 👥  I'm looking to collaborate on Data Driven Projects
 ### Badges
 
 <b>My GitHub Stats</b>
