@@ -23,7 +23,7 @@ Excel and data basics - I mastered the fundamentals of data organization, format
 ### [Excel]:
 This project showcases a retail sales dataset built in Excel, containing individual transaction records with details like customer demographics, product categories, quantities, prices, total sales, and commission calculations. It’s a well‑structured file designed for data cleaning, exploring sales trends, and building dashboards. The dataset offers enough variety to support real‑world style analysis.
 
-[retail_sales](https://github.com/EBA2001/EBA2001/blob/main/retail_sales.png)
+<img width="1152" height="688" alt="Image" src="https://github.com/user-attachments/assets/2fa8cb00-2057-4d62-ba2c-6d442f20dcfd" />
 
 
 
