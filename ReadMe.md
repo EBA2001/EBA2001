@@ -65,9 +65,15 @@ I put together this database schema to map out how countries, cities, and langua
 This project is data‑analysis workflow built in Python. Working in Google Colab, I set up a clean environment, connected my Google Drive, and imported a real‑world GDP per‑capita dataset for exploration. The notebook focuses on loading the data, reviewing its structure, and preparing it for further analysis and visualisation using libraries such as pandas, matplotlib and seaborn. The work reflects my ability to organise a reproducible workflow, handle external files, and apply core Python tools to support practical, data‑driven insights. Below is the link for my google colab project:
 
 
-[Python Coding](https://colab.research.google.com/drive/10EUGTWp-uB1y2fRGo4_mKUmECXZXvK_6)
+[Python Notebook](https://colab.research.google.com/drive/10EUGTWp-uB1y2fRGo4_mKUmECXZXvK_6)
+
+## Project 1:
 
 <img width="1392" height="721" alt="Image" src="https://github.com/user-attachments/assets/0f39b19e-2565-4c17-ac43-bdb5ae89c314" />
+
+## Project 2:
+
+
 
 
 
