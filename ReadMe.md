@@ -18,7 +18,7 @@ I’m currently working on my portfolio to show the projects I created during my
 
 ### [Projects I have completed: ](https://github.com/EBA2001/EBA2001/blob/main/README.md#projects-i-have-completed)
 
-### Excel & Data Basics
+### Excel & Data Basics 📊
 
 ## Project 1:Retail Sales & Commission Analysis (2023 Dataset)
  [retail_sales_dataset.xlsx](https://github.com/user-attachments/files/29817690/retail_sales_dataset.xlsx)
@@ -37,7 +37,7 @@ This project looks at five years of revenue and profit data and presents the res
 <img width="466" height="206" alt="Excel- visualization" src="https://github.com/user-attachments/assets/cec9f3e8-ce10-4d18-920b-0f6f2fb58e20" />
 
 
-### Tableau
+### Tableau📈
 ## Project: Global Health Insights Dashboard
 ## Overview
 The dashboard gives clear snapshot of global health patterns. It compares expectancy across continents, shows how the population is split between men and woman, and tracks how life expectancy has changed over time. It also includes a scatter plot that explores the relationship between BMI and life expectancy. A data guide on the side highlights key insights, including Africa's notably lower average life.
@@ -45,22 +45,22 @@ The dashboard gives clear snapshot of global health patterns. It compares expect
 <img width="840" height="607" alt="Tableau - report  png" src="https://github.com/user-attachments/assets/87a69ae0-e65a-49d2-bf4e-2a48b8f485c7" />
 
 
-### Power BI
+### Power BI 💻
 ## Project: Sales Performance Dashboard 
 ## Overview
 This report gives a clear view of sales performance by comparing actual results against targets. It highlights total sales, variance, and margin, and includes monthly breakdowns to show how performance shifts over time. The visuals make it easy to track progress, spot gaps, and understand overall business performance at a glance.
 
 <img width="388" height="238" alt="Image" src="https://github.com/user-attachments/assets/01885873-c9b3-422c-8814-d6562121219b" />
 
-### SQL
+### SQL ⚙
 ## Project: Relational Database Schema & ERD Design 
 ## Overview
 I put together this database schema to map out how countries, cities, and languages interact. The goal was to build a clean, normalized structure that handles everything from basic geographic stats (like GNP and population) to the specific distribution of languages across different regions. It handles the many-to-many relationship between countries and languages using a bridge table and includes a FamilyLang entity to track language groups. This setup is perfect for running complex SQL queries to find things like the percentage of official language speakers relative to a country's total population.
 
 <img width="935" height="594" alt="Image" src="https://github.com/user-attachments/assets/e11a1338-a17c-4284-b630-a88b922885ea" />
 
-### Python
-## Project:
+### Python 🐍
+
 ## Overview
 This project is data‑analysis workflow built in Python. Working in Google Colab, I set up a clean environment, connected my Google Drive, and imported a real‑world GDP per‑capita dataset for exploration. The notebook focuses on loading the data, reviewing its structure, and preparing it for further analysis and visualisation using libraries such as pandas, matplotlib and seaborn. The work reflects my ability to organise a reproducible workflow, handle external files, and apply core Python tools to support practical, data‑driven insights. Below is the link for my google colab project:
 
@@ -112,14 +112,5 @@ This project uses Python, Pandas, and Matplotlib to visualize GDP (nominal) per 
 *  🚀  I'm currently working on [EBA2001](http://https://github.com/EBA2001/EBA2001/tree/main)
 *  🧠  I'm currently learning Data Analytics
 *  👥  I'm looking to collaborate on Data Driven Projects
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/EBA2001"><img src="https://github-readme-stats.vercel.app/api?username=EBA2001&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="EBA2001's GitHub stats" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
 
