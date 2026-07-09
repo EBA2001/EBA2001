@@ -83,17 +83,22 @@ This project applies Python and Pandas to clean and analyze a dataset containing
 
 ## Project 2: Python Visualization:
 Project Overview
-This project uses Python, Pandas, and Matplotlib to visualize GDP (nominal) per capita data. The focus was on creating a Bar Chart, Histogram, Heat Map to show the distribution of IMF estimates across countries, giving a clear picture of how values are spread.
+This project uses Python, Pandas, and Matplotlib to visualize GDP (nominal) per capita data. The focus was on creating a Box Plot, Scatter Plot, Heat Map to show the distribution of IMF estimates across countries, giving a clear picture of how values are spread.
 
 
-## Bar Chart:This chart gives a quick view of how sales performed across the year compared with the set targets. It shows the total sales achieved, the target for the year, and the variance between the two. The monthly bars make it easy to spot where performance was strong and where it dipped, while the year filter keeps the focus on FY2019. Overall, it’s a straightforward way to track progress and see how closely the business stayed on course throughout the year.
-<img width="1428" height="656" alt="Image" src="https://github.com/user-attachments/assets/ebfef322-934d-4ddd-a1fe-3744d5b92447" />
+## Box Plot:
+This chart shows how marks vary across the different classes. Each box gives a sense of the typical score for that class, along with how widely the marks are spread. Some classes have a tighter range, while others show more variation, and the medians shift noticeably from one group to another. It’s a simple way to compare performance levels and see where results are more consistent or more scattered.
+<img width="769" height="440" alt="Box - Plot" src="https://github.com/user-attachments/assets/88b71061-0fda-4c80-9a1d-a11f5202ad81" />
 
-## Histogram Plot:
-<img width="1409" height="659" alt="Image" src="https://github.com/user-attachments/assets/1268091b-86fb-4ea6-9e5c-8e94fefd7a13" />
+
+## Scatter Plot:
+This scatter plot shows how closely the UN and World Bank estimates line up. Each point represents a pair of values, and most of them fall along the trend line, which suggests a strong positive relationship between the two sources. It’s a simple way to see that both organisations tend to produce similar figures, with only small variations across the dataset.
+<img width="747" height="452" alt="Scatter - Plot  png" src="https://github.com/user-attachments/assets/d9a7d630-5f47-4711-a3b8-9c3d4b9648d2" />
 
 ## Heat Map:
-<img width="1418" height="652" alt="Image" src="https://github.com/user-attachments/assets/2d15868e-ca40-4e11-bdd8-7f9aca664a3e" />
+This heatmap gives a quick view of how the different estimates and year fields relate to one another. Stronger correlations show up clearly, with the UN and World Bank estimates moving closely together, while some of the other fields have weaker or even negative relationships. It’s a simple way to spot which figures tend to align and which ones differ, making the overall structure of the dataset easier to understand at a glance.
+<img width="645" height="437" alt="Heat-Map" src="https://github.com/user-attachments/assets/4980fc01-b5d7-479f-8707-f8c49a828d18" />
+
 
 
 
