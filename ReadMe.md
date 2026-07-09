@@ -98,6 +98,7 @@ This scatter plot shows how closely the UN and World Bank estimates line up. Eac
 
 ## Heat Map:
 This heatmap gives a quick view of how the different estimates and year fields relate to one another. Stronger correlations show up clearly, with the UN and World Bank estimates moving closely together, while some of the other fields have weaker or even negative relationships. It’s a simple way to spot which figures tend to align and which ones differ, making the overall structure of the dataset easier to understand at a glance.
+
 <img width="645" height="437" alt="Heat-Map" src="https://github.com/user-attachments/assets/4980fc01-b5d7-479f-8707-f8c49a828d18" />
 
 
