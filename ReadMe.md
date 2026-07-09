@@ -67,23 +67,33 @@ This project is data‑analysis workflow built in Python. Working in Google Cola
 
 [Python Notebook](https://colab.research.google.com/drive/10EUGTWp-uB1y2fRGo4_mKUmECXZXvK_6)
 
-## Project 1:
+
+
+## Project 1: Project Overview
+This project uses Python and Pandas to explore a dataset of GDP (nominal) per capita figures from multiple sources, including the IMF and World Bank. The notebook demonstrates how to import, preview, and inspect structured economic data for analysis
+
+# Python Data Cleaning & Transformation
 
 <img width="1392" height="721" alt="Image" src="https://github.com/user-attachments/assets/0f39b19e-2565-4c17-ac43-bdb5ae89c314" />
 
-## Project 2:
+## GDP per Capita Data Cleaning & Exploration
+This project applies Python and Pandas to clean and analyze a dataset containing GDP (nominal) per capita figures from sources like the IMF and World Bank. The focus was on preparing the data for reliable analysis by removing inconsistencies and standardizing values.
 
 <img width="1418" height="655" alt="Image" src="https://github.com/user-attachments/assets/f49a99db-a489-4ca4-8f34-4e476d49cdf0" />
 
-## Project 3:
+## Project 2 Python Visualization:
+Project Overview
+This project uses Python, Pandas, and Matplotlib to visualize GDP (nominal) per capita data. The focus was on creating a histogram to show the distribution of IMF estimates across countries, giving a clear picture of how values are spread.
 
-<img width="1024" height="658" alt="Image" src="https://github.com/user-attachments/assets/582dc4c5-5601-48b1-8f4f-61aa9df29fa3" />
 
-## Project 4:
+## Histogram:
 <img width="1428" height="656" alt="Image" src="https://github.com/user-attachments/assets/ebfef322-934d-4ddd-a1fe-3744d5b92447" />
 
-## Project 5:
+## Histogram Plot:
 <img width="1409" height="659" alt="Image" src="https://github.com/user-attachments/assets/1268091b-86fb-4ea6-9e5c-8e94fefd7a13" />
+
+## Heat Map:
+
 
 
 
