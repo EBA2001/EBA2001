@@ -81,12 +81,12 @@ This project applies Python and Pandas to clean and analyze a dataset containing
 
 <img width="1418" height="655" alt="Image" src="https://github.com/user-attachments/assets/f49a99db-a489-4ca4-8f34-4e476d49cdf0" />
 
-## Project 2 Python Visualization:
+## Project 2: Python Visualization:
 Project Overview
-This project uses Python, Pandas, and Matplotlib to visualize GDP (nominal) per capita data. The focus was on creating a histogram to show the distribution of IMF estimates across countries, giving a clear picture of how values are spread.
+This project uses Python, Pandas, and Matplotlib to visualize GDP (nominal) per capita data. The focus was on creating a Bar Chart, Histogram, Heat Map to show the distribution of IMF estimates across countries, giving a clear picture of how values are spread.
 
 
-## Histogram:
+## Bar Chart:This chart gives a quick view of how sales performed across the year compared with the set targets. It shows the total sales achieved, the target for the year, and the variance between the two. The monthly bars make it easy to spot where performance was strong and where it dipped, while the year filter keeps the focus on FY2019. Overall, it’s a straightforward way to track progress and see how closely the business stayed on course throughout the year.
 <img width="1428" height="656" alt="Image" src="https://github.com/user-attachments/assets/ebfef322-934d-4ddd-a1fe-3744d5b92447" />
 
 ## Histogram Plot:
