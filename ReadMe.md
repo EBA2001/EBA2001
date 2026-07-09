@@ -22,7 +22,7 @@ I’m currently working on my portfolio to show the projects I created during my
 
 ## Project 1:Retail Sales & Commission Analysis (2023 Dataset)
  [retail_sales_dataset.xlsx](https://github.com/user-attachments/files/29817690/retail_sales_dataset.xlsx)
-## Overview
+## Project Overview
 This project showcases a retail sales dataset built in Excel, containing individual transaction records with details like customer demographics, product categories, quantities, prices, total sales, and commission calculations. It’s a well‑structured file designed for data cleaning, exploring sales trends, and building dashboards. The dataset offers enough variety to support real‑world style analysis.
 
 <img width="864" height="593" alt="Excel-project-chart png" src="https://github.com/user-attachments/assets/fd6efb0a-aae9-4ebf-91a9-11fc545df3ba" />
@@ -31,7 +31,7 @@ This project showcases a retail sales dataset built in Excel, containing individ
 
 ## Project 2: Revenue and Profit Trend Analysis (2017–2021)
  [Bike_Sales_Visualisations.xlsx](https://github.com/user-attachments/files/29817997/Bike_Sales_Visualisations.xlsx)
-## Overview
+## Project Overview
 This project looks at five years of revenue and profit data and presents the results in a clear, easy‑to‑read format. I organised the figures in Excel, calculated the totals, and created a line chart to highlight how both revenue and profit have grown over time. The visual makes it easy to see the widening gap between the two, with revenue increasing at a faster pace. The aim of the project was to practise working with financial data, summarise key trends, and present the information in a way that supports quick interpretation and decision‑making.
 
 <img width="466" height="206" alt="Excel- visualization" src="https://github.com/user-attachments/assets/cec9f3e8-ce10-4d18-920b-0f6f2fb58e20" />
@@ -39,15 +39,16 @@ This project looks at five years of revenue and profit data and presents the res
 
 ### 📈 Tableau
 ## Project: Global Health Insights Dashboard
-## Overview
+## Project Overview
 The dashboard gives clear snapshot of global health patterns. It compares expectancy across continents, shows how the population is split between men and woman, and tracks how life expectancy has changed over time. It also includes a scatter plot that explores the relationship between BMI and life expectancy. A data guide on the side highlights key insights, including Africa's notably lower average life.
 
-<img width="840" height="607" alt="Tableau - report  png" src="https://github.com/user-attachments/assets/87a69ae0-e65a-49d2-bf4e-2a48b8f485c7" />
+<img width="491" height="251" alt="Tableau png" src="https://github.com/user-attachments/assets/e51c9bda-819e-432a-acc2-94137c32ca7a" />
+
 
 
 ### 💻 Power BI 
 ## Project: Sales Performance Dashboard 
-## Overview
+## Project Overview
 This report gives a clear view of sales performance by comparing actual results against targets. It highlights total sales, variance, and margin, and includes monthly breakdowns to show how performance shifts over time. The visuals make it easy to track progress, spot gaps, and understand overall business performance at a glance.
 
 <img width="388" height="238" alt="Image" src="https://github.com/user-attachments/assets/01885873-c9b3-422c-8814-d6562121219b" />
@@ -61,7 +62,7 @@ I put together this database schema to map out how countries, cities, and langua
 
 ### 🐍 Python 
 
-## Overview
+## Project Overview
 This project is data‑analysis workflow built in Python. Working in Google Colab, I set up a clean environment, connected my Google Drive, and imported a real‑world GDP per‑capita dataset for exploration. The notebook focuses on loading the data, reviewing its structure, and preparing it for further analysis and visualisation using libraries such as pandas, matplotlib and seaborn. The work reflects my ability to organise a reproducible workflow, handle external files, and apply core Python tools to support practical, data‑driven insights. Below is the link for my google colab project:
 
 
