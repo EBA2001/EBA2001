@@ -93,7 +93,7 @@ This project uses Python, Pandas, and Matplotlib to visualize GDP (nominal) per 
 <img width="1409" height="659" alt="Image" src="https://github.com/user-attachments/assets/1268091b-86fb-4ea6-9e5c-8e94fefd7a13" />
 
 ## Heat Map:
-
+<img width="1418" height="652" alt="Image" src="https://github.com/user-attachments/assets/2d15868e-ca40-4e11-bdd8-7f9aca664a3e" />
 
 
 
