@@ -83,7 +83,7 @@ This project applies Python and Pandas to clean and analyze a dataset containing
 <img width="1418" height="655" alt="Image" src="https://github.com/user-attachments/assets/f49a99db-a489-4ca4-8f34-4e476d49cdf0" />
 
 ## Project 2: Python Visualization:
-Project Overview
+## Project Overview
 This project uses Python, Pandas, and Matplotlib to visualize GDP (nominal) per capita data. The focus was on creating a Box Plot, Scatter Plot, Heat Map to show the distribution of IMF estimates across countries, giving a clear picture of how values are spread.
 
 
